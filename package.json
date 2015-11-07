@@ -1,0 +1,11 @@
+{
+  "name": "tcp-say",
+  "version": "1.0.0",
+  "description": "OSX say over the network",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Milea-Ciobanu",
+  "license": "MIT"
+}
